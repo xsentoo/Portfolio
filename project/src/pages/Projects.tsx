@@ -48,7 +48,7 @@ const projects = [
     description: 'A fun and interactive game where players merge watermelons to create larger ones. The game uses basic HTML and JavaScript to build the gameplay logic and user interface.',
     tech: 'HTML, JavaScript',
     image: 'https://images.crazygames.com/fruit-merge-juicy-drop-game-nyf_16x9/20250108085620/fruit-merge-juicy-drop-game-nyf_16x9-cover?auto=format,compress&q=75&cs=strip',
-    github: 'https://github.com/username/watermelone-merge-game'
+    github: 'https://github.com/xsentoo/WatermeloneGame'
   }
 ];
 
