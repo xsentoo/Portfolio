@@ -68,14 +68,14 @@ const Resume = () => {
                   // Existing experiences here...
             
                   {
-                    title: 'Film by Janar | FREELANCE DEVELOPER',
-                    period: '2024 – Present',
-                    location: 'Remote',
-                    description: [
-                      'Développement d’une plateforme permettant aux utilisateurs de découvrir les créations de l’entreprise, de réserver une date pour des prestations et de contacter facilement l’équipe.',
-                      'Implémentation d’un système de gestion des réservations avec notifications automatisées.',
-                      'Technologies utilisées : HTML, CSS, JavaScript (React), Node.js (Express), et Firebase pour le stockage des données et l’authentification.',
-                    ],
+                    "title": "Film by Janar | FREELANCE DEVELOPER",
+                    "period": "2024 – Present",
+                    "location": "Remote",
+                    "description": [
+                      "Developed a platform allowing users to discover the company's creations, book a date for services, and easily contact the team.",
+                      "Implemented a booking management system with automated notifications.",
+                      "Technologies used: HTML, CSS, JavaScript (React), Node.js (Express), and Firebase for data storage and authentication."
+                    ]
                   },
                 {
                   title: 'LYCÉE RENÉ DESCARTES | FULL STACK DEVELOPER',
