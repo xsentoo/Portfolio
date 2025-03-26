@@ -18,11 +18,11 @@ function App() {
           <AnimatePresence mode="wait">
             <Routes>
               <Route path="/Portfolio" element={<Home />} />
-              <Route path="/Home" element={<Home />} />
-              <Route path="/about" element={<About />} />
-              <Route path="/projects" element={<Projects />} />
-              <Route path="/resume" element={<Resume />} />
-              <Route path="/contact" element={<Contact />} />
+              <Route path="/Portfolio/Home" element={<Home />} />
+              <Route path="/Portfolio/about" element={<About />} />
+              <Route path="/Portfolio/projects" element={<Projects />} />
+              <Route path="/Portfolio/resume" element={<Resume />} />
+              <Route path="/Portfolio/contact" element={<Contact />} />
             </Routes>
           </AnimatePresence>
         </main>
