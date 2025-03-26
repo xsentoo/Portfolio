@@ -18,11 +18,11 @@ const Navigation = () => {
   }, []);
 
   const navItems = [
-    { path: '/Home', label: 'Home' },
-    { path: '/about', label: 'About' },
-    { path: '/projects', label: 'Projects' },
-    { path: '/resume', label: 'Resume' },
-    { path: '/contact', label: 'Contact' },
+    { path: '/Portfolio/Home', label: 'Home' },
+    { path: '/Portfolio/about', label: 'About' },
+    { path: '/Portfolio/projects', label: 'Projects' },
+    { path: '/Portfolio/resume', label: 'Resume' },
+    { path: '/Portfolio/contact', label: 'Contact' },
   ];
 
   return (
