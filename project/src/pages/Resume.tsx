@@ -224,9 +224,10 @@ const Resume = () => {
             <motion.div className="grid md:grid-cols-2 gap-6">
               {[
                 {
-                  title: 'Web Development',
-                  skills: 'HTML5 / CSS3 • JavaScript • PHP • React • Bootstrap',
+                  title: 'Frameworks and Libraries',
+                  skills: 'React • Vite • Node.js • Express  • Tailwind CSS • Bootstrap',
                 },
+                
                 {
                   title: 'Programming Languages',
                   skills: 'C# • Python • Java • SQL • JavaScript • PHP • HTML5/CSS3',

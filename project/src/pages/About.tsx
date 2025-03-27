@@ -81,7 +81,7 @@ const About = () => {
           className="bg-white rounded-lg shadow-lg p-8 mb-12"
         >
           <h3 className="text-2xl font-semibold mb-4 text-center">Technologies I Want to Learn</h3>
-          <ul className="list-disc pl-6">
+          <ul className="text-lg text-gray-600 italic">
             <li>GraphQL</li>
             <li>Cloud Technologies (AWS, Azure, etc.)</li>
             <li>Machine Learning & AI</li>
@@ -98,7 +98,7 @@ const About = () => {
         >
           <h3 className="text-2xl font-semibold mb-4 text-center">Fun Fact</h3>
           <p className="text-gray-600">
-            I can solve a Rubik’s cube in under 2 minutes. It's a fun activity that helps me with my problem-solving skills!
+          "I completed GTA 5 in just 5 days, showcasing my ability to focus and tackle ambitious challenges." 
           </p>
         </motion.div>
 
