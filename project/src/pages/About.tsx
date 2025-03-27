@@ -98,7 +98,7 @@ const About = () => {
         >
           <h3 className="text-2xl font-semibold mb-4 text-center">Fun Fact</h3>
           <p className="text-gray-600">
-          "I completed GTA 5 in just 5 days, showcasing my ability to focus and tackle ambitious challenges." 
+            "I completed GTA 5 in just 5 days, showcasing my ability to focus and tackle ambitious challenges." 
           </p>
         </motion.div>
 
@@ -114,6 +114,25 @@ const About = () => {
             "Thayaparan is an incredibly motivated and skilled developer. He brings not only technical expertise but also a positive attitude to every project." — Ismael Panier
           </blockquote>
         </motion.div>
+
+        {/* Hobbies Section */}
+        <motion.div
+          variants={fadeInUp}
+          initial="initial"
+          animate="animate"
+          className="bg-white rounded-lg shadow-lg p-8 mb-12"
+        >
+          <h3 className="text-2xl font-semibold mb-4 text-center">Hobbies</h3>
+          <p className="text-gray-600">
+            When I'm not coding, I enjoy a variety of hobbies that keep me balanced and creative:
+          </p>
+          <ul className="text-lg text-gray-600 italic mt-4">
+            <li>Badminton: A great way to stay active and competitive.</li>
+            <li>Video Games: Especially titles like Call of Duty and GTA 5, which fuel my passion for challenges and storytelling.</li>
+            <li>Route 66 & Vintage Cowboy Style: A deep passion for the American road trip culture, adventure, and the timeless allure of the vintage cowboy aesthetic.</li>
+          </ul>
+        </motion.div>
+
       </div>
 
       <div className="absolute inset-0 -z-10 opacity-10">
